@@ -9,6 +9,7 @@ const ReactLogo = () => {
     </div>
   `)
 };
+
 const App = () => {
   return(`
     ${ReactLogo()}
